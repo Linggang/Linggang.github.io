@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Linggang Luo's personal website"
 title_separator          : "-"
 name                     : &name "Linggang Luo"
-description              : &description "PhD student at University of Pittsburgh"
+description              : &description ""
 url                      : https://Linggang.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Linggang/Linggang.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Linggang Luo"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "PhD student @ University of Pittsburgh | Diffusion MRI & Neuroscience"
+  location         : "Pittsburgh, PA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : ""
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=hyD-zDMAAAAJ"
+  email            : "lil153@pitt.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "Linggang"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-9001-8965"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "LinggangLuo"
   vine             :
   weibo            :
   xing             :
